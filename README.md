@@ -1,2 +1,5 @@
-# 원티드 프리온보딩 코스
-Tokenizer and TF/IDF with python from scratch
+# Tokenizer & TF-IDF vectorizer
+### A Practice for building a Tokenizer and a TF-IDF vectorizer
+
+Language - Python
+Code Editor - Google Colab
